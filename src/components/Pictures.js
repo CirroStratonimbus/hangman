@@ -1,4 +1,4 @@
-import React, { useSelector } from "react";
+import React, { useSelector } from "react-redux";
 
 import statePic1 from './pictures/state1.GIF'
 import statePic2 from './pictures/state2.GIF'
