@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.942a3c93.css",
+    "main.js": "./static/js/main.abd40033.js",
+    "static/js/787.20ace30e.chunk.js": "./static/js/787.20ace30e.chunk.js",
+    "static/media/hangmans-knot-smile-sticker.webp": "./static/media/hangmans-knot-smile-sticker.67dc34940f4cd5947202.webp",
+    "static/media/state5.GIF": "./static/media/state5.3400158bb87bf7b18449.GIF",
+    "static/media/state4.GIF": "./static/media/state4.b28f6d17127899f05793.GIF",
+    "static/media/state3.GIF": "./static/media/state3.5da4c74e65f9258e11e8.GIF",
+    "index.html": "./index.html",
+    "static/media/state2.GIF": "./static/media/state2.fa8ee2ae2c77b5581cd5.GIF",
+    "static/media/state1.GIF": "./static/media/state1.18132e835db9e2f8e497.GIF",
+    "main.942a3c93.css.map": "./static/css/main.942a3c93.css.map",
+    "main.abd40033.js.map": "./static/js/main.abd40033.js.map",
+    "787.20ace30e.chunk.js.map": "./static/js/787.20ace30e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.942a3c93.css",
+    "static/js/main.abd40033.js"
+  ]
+}
